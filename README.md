@@ -1,6 +1,6 @@
 # TRY
 Try
 Fin
-Roto
+Rot
 R
 
