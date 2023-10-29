@@ -2,5 +2,5 @@
 Try
 Fin
 Rot
-Rcd
+Rc
 
