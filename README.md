@@ -2,4 +2,3 @@
 Try
 Fin
 Rot
-R
