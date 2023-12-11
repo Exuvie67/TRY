@@ -3,6 +3,6 @@ Try
 Fss
 cvvdfe
 ddsxc
-wxc
+w
 g
 edg
